@@ -1,4 +1,4 @@
-![New Beginnings](https://github.com/DDLCNewBeginnings/New-Beginnings/blob/readme-edit/NewBeginningsLogo.PNG)
+![New Beginnings](https://github.com/DDLCNewBeginnings/New-Beginnings/blob/images/NewBeginningsLogo.PNG)
 
 # New-Beginnings(NB)
 New Beginnings is a mod for Doki Doki Literature club [Doki Doki Literature Club](https://www.ddlc.moe) from [Team Salvato](http://teamsalvato.com/) NB replaces the original game with an alternate storyline with new characters, backgrounds, music, and game mechanics!
@@ -15,7 +15,17 @@ After a car accident that took the lives of both your parents, you return to you
 
 * New artwork, backgrounds, music, characters, and more!
 
-### Getting Involved
+### Installation
+
+1. Download and install the [Ren'Py SDK](https://www.renpy.org/latest.html).
+2. Go to releases to download the [latest demo](). 
+3. Extract the two mod folders. We HIGHLY recommend that you extract these two folders into a single, seperate folder.
+4. From the folder titled "New-Beginnings-0.10.0DEMO-Mod", go to the /game directory and copy ALL the files from the /game folder.
+5. In the extracted "New-Beginnings-0.1.0DEMO-pc" folder, paste the files from the previous step into the /game folder.
+6. Download the DDLC files (available for free at http://ddlc.moe) & copy the files from it, located in the /game folder.
+7. Paste the .rpa files from the previous step into the /game directory of the extracted "New-Beginnings-0.1.0DEMO-pc" folder.
+
+#### Getting Involved
 
 As this is a huge overhaul to the game, we are requesting your help! We're currently seeking artists who can design backgrounds and characters! In the future, a Discord server will be available to join to discuss the mod, as well as getting involved with its community. 
 
