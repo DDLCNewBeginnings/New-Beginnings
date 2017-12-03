@@ -1,2 +1,4 @@
+
+
 # New-Beginnings
-Doki Doki Literature Club's New Beginning Mod, created by Milk Lennings
+New Beginnings is a mod for Doki Doki Literature club [Doki Doki Literature Club](https://www.ddlc.moe) from [Team Salvato](http://teamsalvato.com/)
