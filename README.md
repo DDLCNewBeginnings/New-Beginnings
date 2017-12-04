@@ -12,7 +12,7 @@ New backgrounds, which add new locations, as well as new clothes for the charact
 
 ##### What is the Dating feature like?
 
-Well, just like a vanilla light novel, you are able to ask girls out on dates, where you can choose when and where! If you take a girl to her favorite restaurant, for example, she will gain interest in you and possibly further her route. 
+Just like a vanilla light novel, you are finally able to ask girls out on dates, where you can choose when and where! If you take a girl to her favorite restaurant, for example, she will gain interest in you and possibly further her route. 
 
 ##### Why did my anti-virus software delete one or more files of the game?
 
