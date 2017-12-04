@@ -2,7 +2,7 @@
 
 * The first available demo, version 0.1.0DEMO(released on December 3, 2017), is available for [download](https://www.dropbox.com/sh/04ccimqb0b6b4fj/AAAFsMMdVLfgOruhc7UNAhlXa?dl=0)
 
-## Installation
+### Installation
 NOTE: Macintosh Operating systems are currently NOT supported.
 1. Download and install the [Ren'Py SDK](https://www.renpy.org/latest.html).
 2. Go to "releases" to download the [latest demo](https://github.com/DDLCNewBeginnings/New-Beginnings/tree/releases). 
