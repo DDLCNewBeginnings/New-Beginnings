@@ -11,7 +11,7 @@ After a car accident that took the lives of both your parents, you return to you
 
 * All new individualized dating system! Take the girls out on special dates - you pick when and where!
 
-* Weekends are you fun days! You can choose to call your friends, go out for a walk at the park, or if you have the confidence, ask someone out!
+* Weekends are your fun days! You can choose to call your friends, go out for a walk at the park, or if you have the confidence, ask someone out!
 
 * All new backgrounds, character graphics, music, and more! We're packing three times the content as the original game!
 
