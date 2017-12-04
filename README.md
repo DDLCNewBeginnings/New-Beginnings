@@ -1,6 +1,6 @@
 # Releases
 
-* Currently, the New Beginnings Mod is still under development. However, under Downloads, you can find released demos to play.
+Currently, the New Beginnings Mod is still under development. However, under Downloads, you can find released demos to play.
 
 ## Downloads
 
