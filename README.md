@@ -12,3 +12,6 @@ NOTE: Macintosh Operating systems are currently NOT supported.
 6. Download the DDLC files (available for free at http://ddlc.moe) & copy the files from it, located in the /game folder.
 7. Paste the .rpa files from the previous step into the /game directory of the extracted "New-Beginnings-0.1.0DEMO-pc" folder.
 
+### Next Release Date
+
+* The next available demo, 0.2.0DEMO, is planning to be released by Christmas day. 
