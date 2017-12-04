@@ -37,8 +37,8 @@ Currently, because the mod is such a huge project, it is expected to release som
 
 ##### Screenshots
 
-(https://github.com/DDLCNewBeginnings/New-Beginnings/blob/images/Screenshot1.png)
+![Screenshot 1](https://github.com/DDLCNewBeginnings/New-Beginnings/blob/images/Screenshot1.png)
 
-(https://github.com/DDLCNewBeginnings/New-Beginnings/blob/images/Screenshot2.png)
+![Screenshot 2](https://github.com/DDLCNewBeginnings/New-Beginnings/blob/images/Screenshot2.png)
 
-(https://github.com/DDLCNewBeginnings/New-Beginnings/blob/images/Screenshot3.png)
+![Screenshot 3](https://github.com/DDLCNewBeginnings/New-Beginnings/blob/images/Screenshot3.png)
