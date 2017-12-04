@@ -14,4 +14,4 @@ NOTE: Macintosh Operating systems are currently NOT supported.
 
 ### Next Release Date
 
-* The next available demo, 0.2.0DEMO, is planning to be released by Christmas day. 
+* The next available demo, 0.2.0DEMO, is planning to be released by Christmas day. It is planned to contain another chapter, as well as introduce Yuri and Monika. We will see new backgrounds, artwork, and the first real set of choices the player can make.
