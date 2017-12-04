@@ -3,10 +3,6 @@
 # New Beginnings(NB)
 New Beginnings is a mod for Doki Doki Literature club [Doki Doki Literature Club](https://www.ddlc.moe) from [Team Salvato](http://teamsalvato.com/) NB replaces the original game with an alternate storyline with new characters, backgrounds, music, and game mechanics!
 
-# Story
-
-After a car accident that took the lives of both your parents, you return to your hometown after being separated from your sister. Now, after three entire years of working at your uncle's furniture shop, you reunite with your childhood best friend, Sayori, as she introduces you to a new school, where you meet many new friends. How will you forge your last year of high school?
-
 ## Releases
 
 * Currently, the New Beginnings Mod is still under development. However, under Downloads, you can find released demos to play.
