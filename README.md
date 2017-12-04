@@ -22,7 +22,7 @@ Like most of the fan-made DDLC mods, certain scripts used in the game's coding c
 
 If you are an experienced or aspiring artist, you can help by joining the team! We are grateful for any bit of help, and you can email us, as detailed below. 
 
-#### Getting Involved
+## Getting Involved
 
 As this is a huge overhaul to the game, we are requesting your help! We're currently seeking artists who can design backgrounds and characters! In the future, a Discord server will be available to join to discuss the mod, as well as getting involved with its community. 
 
