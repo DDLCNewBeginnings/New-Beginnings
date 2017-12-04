@@ -9,7 +9,7 @@ New Beginnings is a mod for Doki Doki Literature club [Doki Doki Literature Club
 
 ### Downloads
 
-* The first available demo, version 0.1.0DEMO(released on December 3, 2017, is available for [download](https://www.dropbox.com/sh/04ccimqb0b6b4fj/AAAFsMMdVLfgOruhc7UNAhlXa?dl=0)
+* The first available demo, version 0.1.0DEMO(released on December 3, 2017), is available for [download](https://www.dropbox.com/sh/04ccimqb0b6b4fj/AAAFsMMdVLfgOruhc7UNAhlXa?dl=0)
 
 #### Installation
 NOTE: Macintosh Operating systems are currently NOT supported.
