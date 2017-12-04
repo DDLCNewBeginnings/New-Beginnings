@@ -18,7 +18,7 @@ After a car accident that took the lives of both your parents, you return to you
 ### Installation
 NOTE: Macintosh Operating systems are currently NOT supported.
 1. Download and install the [Ren'Py SDK](https://www.renpy.org/latest.html).
-2. Go to "releases" to download the [latest demo](). 
+2. Go to "releases" to download the [latest demo](https://github.com/DDLCNewBeginnings/New-Beginnings/tree/releases). 
 3. Extract the two mod folders. We HIGHLY recommend that you extract these two folders into a single, seperate folder.
 4. From the folder titled "New-Beginnings-0.10.0DEMO-Mod", go to the /game directory and copy ALL the files from the /game folder.
 5. In the extracted "New-Beginnings-0.1.0DEMO-pc" folder, paste the files from the previous step into the /game folder.
@@ -29,4 +29,8 @@ NOTE: Macintosh Operating systems are currently NOT supported.
 
 As this is a huge overhaul to the game, we are requesting your help! We're currently seeking artists who can design backgrounds and characters! In the future, a Discord server will be available to join to discuss the mod, as well as getting involved with its community. 
 
-If you have any further questions or comments, you can email us at [DDLC.NewBeginnings@gmail.com](https://www.DDLC.NewBeginnings@gmail.com)
+If you have any further questions or comments, or would like to contribute, you can email us at [DDLC.NewBeginnings@gmail.com](https://www.DDLC.NewBeginnings@gmail.com)
+
+##### Estimated official release date
+
+Currently, because the mod is such a huge project, it is expected to release sometime in the late spring of 2018.
