@@ -33,11 +33,14 @@ As this is a huge overhaul to the game, we are requesting your help! We're curre
 
 If you have any further questions or comments, or would like to contribute, you can email us at [DDLC.NewBeginnings@gmail.com](https://www.DDLC.NewBeginnings@gmail.com)
 
-##### Estimated official release date
+#### Estimated official release date
 
 Currently, because the mod is such a huge project, it is expected to release sometime in the late spring of 2018.
 
-##### Screenshots
+#### FAQ
+A list of frequently asked questions can be found [here](https://github.com/DDLCNewBeginnings/New-Beginnings/tree/FAQ)
+
+#### Screenshots
 
 ![Screenshot 1](https://github.com/DDLCNewBeginnings/New-Beginnings/blob/images/Screenshot1.png)
 
