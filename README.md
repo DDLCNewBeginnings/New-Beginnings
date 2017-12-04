@@ -17,7 +17,7 @@ After a car accident that took the lives of both your parents, you return to you
 
 * Hours of new gameplay! Explore Doki Doki: Literature club like never before!
 
-### Installation
+## Installation
 NOTE: Macintosh Operating systems are currently NOT supported.
 1. Download and install the [Ren'Py SDK](https://www.renpy.org/latest.html).
 2. Go to "releases" to download the [latest demo](https://github.com/DDLCNewBeginnings/New-Beginnings/tree/releases). 
@@ -27,7 +27,7 @@ NOTE: Macintosh Operating systems are currently NOT supported.
 6. Download the DDLC files (available for free at http://ddlc.moe) & copy the files from it, located in the /game folder.
 7. Paste the .rpa files from the previous step into the /game directory of the extracted "New-Beginnings-0.1.0DEMO-pc" folder.
 
-#### Getting Involved
+### Getting Involved
 
 As this is a huge overhaul to the game, we are requesting your help! We're currently seeking artists who can design backgrounds and characters! In the future, a Discord server will be available to join to discuss the mod, as well as getting involved with its community. 
 
