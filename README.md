@@ -16,7 +16,7 @@ Just like a vanilla light novel, you are finally able to ask girls out on dates,
 
 ##### Why did my anti-virus software delete one or more files of the game?
 
-Like most of the fan-made DDLC mods, certain scripts used in the game's coding can trigger sensitive antivirus softwares.
+Like most of the fan-made DDLC mods, certain scripts used in the game's coding can trigger sensitive antivirus softwares. You can fix this issue by allowing the mod to be run.
 
 ##### How can I help? 
 
