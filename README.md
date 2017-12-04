@@ -34,3 +34,11 @@ If you have any further questions or comments, or would like to contribute, you 
 ##### Estimated official release date
 
 Currently, because the mod is such a huge project, it is expected to release sometime in the late spring of 2018.
+
+##### Screenshots
+
+(https://github.com/DDLCNewBeginnings/New-Beginnings/blob/images/Screenshot1.png)
+
+(https://github.com/DDLCNewBeginnings/New-Beginnings/blob/images/Screenshot2.png)
+
+(https://github.com/DDLCNewBeginnings/New-Beginnings/blob/images/Screenshot3.png)
