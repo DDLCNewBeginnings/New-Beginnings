@@ -2,23 +2,23 @@
 
 Below is a list of frequently asked questions that addresses the mod in detail. 
 
-* When is the mod planning to be released?
+##### When is the mod planning to be released?
 
 Currently, due to the huge scale of the project, with a large of content being added to the game, New Beginnings is planning to be released in the Spring of 2018.
 
-* What kind of new content is there going to be?
+##### What kind of new content is there going to be?
 
 New backgrounds, which add new locations, as well as new clothes for the characters, are just some of the new artwork to the mod. Game wise, there's going to be several new game mechanics, like an all-new "Dating" feature and "Conversation" feature, adding new possibilities to your DDLC experience.
 
-* What is the Dating feature like?
+##### What is the Dating feature like?
 
 Well, just like a vanilla light novel, you are able to ask girls out on dates, where you can choose when and where! If you take a girl to her favorite restaurant, for example, she will gain interest in you and possibly further her route. 
 
-* Why did my anti-virus software delete one or more files of the game?
+##### Why did my anti-virus software delete one or more files of the game?
 
 Like most of the fan-made DDLC mods, certain scripts used in the game's coding can trigger sensitive antivirus softwares.
 
-* How can I help? 
+##### How can I help? 
 
 If you are an experienced or aspiring artist, you can help by joining the team! We are grateful for any bit of help, and you can email us, as detailed below. 
 
