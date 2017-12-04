@@ -9,14 +9,14 @@ After a car accident that took the lives of both your parents, you return to you
 
 ## Features
 
-* 4+ Endings! Now, Monika has her very own route! 
+* All new individualized dating system! Take the girls out on special dates - you pick when and where!
 
-* New game mechanics, like the "Dating" feature, where you can take your special girl out! Choose when and where!
+* Weekends are you fun days! You can choose to call your friends, go out for a walk at the park, or if you have the confidence, ask someone out!
 
-* New artwork, backgrounds, music, characters, and more!
+* All new backgrounds, character graphics, music, and more! We're packing three times the content as the original game!
 
 ### Installation
-
+NOTE: Macintosh Operating systems are currently NOT supported.
 1. Download and install the [Ren'Py SDK](https://www.renpy.org/latest.html).
 2. Go to "releases" to download the [latest demo](). 
 3. Extract the two mod folders. We HIGHLY recommend that you extract these two folders into a single, seperate folder.
