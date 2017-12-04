@@ -1,5 +1,3 @@
-![New Beginnings](https://github.com/DDLCNewBeginnings/New-Beginnings/blob/images/NewBeginningsLogo.PNG)
-
 # Releases
 
 * Currently, the New Beginnings Mod is still under development. However, under Downloads, you can find released demos to play.
@@ -18,8 +16,3 @@ NOTE: Macintosh Operating systems are currently NOT supported.
 6. Download the DDLC files (available for free at http://ddlc.moe) & copy the files from it, located in the /game folder.
 7. Paste the .rpa files from the previous step into the /game directory of the extracted "New-Beginnings-0.1.0DEMO-pc" folder.
 
-#### Getting Involved
-
-As this is a huge overhaul to the game, we are requesting your help! We're currently seeking artists who can design backgrounds and characters! In the future, a Discord server will be available to join to discuss the mod, as well as getting involved with its community. 
-
-If you have any further questions or comments, or would like to contribute, you can email us at [DDLC.NewBeginnings@gmail.com](https://www.DDLC.NewBeginnings@gmail.com)
