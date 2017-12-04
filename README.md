@@ -15,6 +15,8 @@ After a car accident that took the lives of both your parents, you return to you
 
 * All new backgrounds, character graphics, music, and more! We're packing three times the content as the original game!
 
+* Hours of new gameplay! Explore Doki Doki: Literature club like never before!
+
 ### Installation
 NOTE: Macintosh Operating systems are currently NOT supported.
 1. Download and install the [Ren'Py SDK](https://www.renpy.org/latest.html).
