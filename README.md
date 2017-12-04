@@ -1,17 +1,24 @@
-# Downloads
+# FAQ
 
-* The first available demo, version 0.1.0DEMO(released on December 3, 2017), is available for [download](https://www.dropbox.com/sh/04ccimqb0b6b4fj/AAAFsMMdVLfgOruhc7UNAhlXa?dl=0)
+Below is a list of frequently asked questions that addresses the mod in detail. 
 
-### Installation
-NOTE: Macintosh Operating systems are currently NOT supported.
-1. Download and install the [Ren'Py SDK](https://www.renpy.org/latest.html).
-2. Go to "releases" to download the [latest demo](https://github.com/DDLCNewBeginnings/New-Beginnings/tree/releases). 
-3. Extract the two mod folders. We HIGHLY recommend that you extract these two folders into a single, seperate folder.
-4. From the folder titled "New-Beginnings-0.10.0DEMO-Mod", go to the /game directory and copy ALL the files from the /game folder.
-5. In the extracted "New-Beginnings-0.1.0DEMO-pc" folder, paste the files from the previous step into the /game folder.
-6. Download the DDLC files (available for free at http://ddlc.moe) & copy the files from it, located in the /game folder.
-7. Paste the .rpa files from the previous step into the /game directory of the extracted "New-Beginnings-0.1.0DEMO-pc" folder.
+* When is the mod planning to be released?
+Currently, due to the huge scale of the project, with a large of content being added to the game, New Beginnings is planning to be released in the Spring of 2018.
 
-### Next Release Date
+* What kind of new content is there going to be?
+New backgrounds, which add new locations, as well as new clothes for the characters, are just some of the new artwork to the mod. Game wise, there's going to be several new game mechanics, like an all-new "Dating" feature and "Conversation" feature, adding new possibilities to your DDLC experience.
 
-* The next available demo, 0.2.0DEMO, is planning to be released by Christmas day. It is planned to contain another chapter, as well as introduce Yuri and Monika. We will see new backgrounds, artwork, and the first real set of choices the player can make.
+* What is the Dating feature like?
+Well, just like a vanilla light novel, you are able to ask girls out on dates, where you can choose when and where! If you take a girl to her favorite restaurant, for example, she will gain interest in you and possibly further her route. 
+
+* Why did my anti-virus software delete one or more files of the game?
+Like most of the fan-made DDLC mods, certain scripts used in the game's coding can trigger sensitive antivirus softwares.
+
+* How can I help? 
+If you are an experienced or aspiring artist, you can help by joining the team! We are grateful for any bit of help, and you can email us, as detailed below. 
+
+#### Getting Involved
+
+As this is a huge overhaul to the game, we are requesting your help! We're currently seeking artists who can design backgrounds and characters! In the future, a Discord server will be available to join to discuss the mod, as well as getting involved with its community. 
+
+If you have any further questions or comments, or would like to contribute, you can email us at [DDLC.NewBeginnings@gmail.com](https://www.DDLC.NewBeginnings@gmail.com)
